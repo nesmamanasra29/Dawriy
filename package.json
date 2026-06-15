@@ -1,5 +1,5 @@
 {
-  "name": "dawrly",
+  "name": "issue-github",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,21 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@hookform/resolvers": "^5.4.0",
-    "@supabase/supabase-js": "^2.107.0",
-    "@tailwindcss/vite": "^4.3.0",
-    "@tanstack/react-query": "^5.101.0",
-    "clsx": "^2.1.1",
-    "date-fns": "^4.4.0",
-    "lucide-react": "^1.17.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
-    "react-hook-form": "^7.77.0",
-    "react-router-dom": "^7.17.0",
-    "sonner": "^2.0.7",
-    "tailwind-merge": "^3.6.0",
-    "tailwindcss": "^4.3.0",
-    "zod": "^4.4.3"
+    "react-router-dom": "^7.17.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
